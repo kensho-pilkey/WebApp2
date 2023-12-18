@@ -1,0 +1,23 @@
+#home.tab-pane  {
+    color: black;
+}
+.container ul {
+    list-style: none;
+}
+.container h1 {
+    color: white;
+}
+.container {
+    text-align: center;
+}
+.container h1 {
+    background-color: red;
+    text-align: center;
+}
+.container img {
+    width: 500px;
+}
+footer a{
+    text-align: left;
+    font-size: 10px;
+}
